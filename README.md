@@ -1,2 +1,2 @@
 # Basic-Python-Projects
-Basic Python projects using tkinter
+Basic Python projects for beginners
